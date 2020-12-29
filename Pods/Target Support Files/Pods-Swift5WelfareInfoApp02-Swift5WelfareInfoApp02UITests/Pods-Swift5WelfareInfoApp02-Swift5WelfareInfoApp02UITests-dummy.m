@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Swift5WelfareInfoApp02_Swift5WelfareInfoApp02UITests : NSObject
+@end
+@implementation PodsDummy_Pods_Swift5WelfareInfoApp02_Swift5WelfareInfoApp02UITests
+@end
